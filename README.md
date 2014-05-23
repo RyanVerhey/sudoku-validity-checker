@@ -3,7 +3,7 @@ Sudoku Validity Checker
 
 ### About
 
-Built at a hack night, takes coordinates on a sudoku board and an input number with the format "row:column input". Unless the input number violates any of the rules of sudoku ([how to play sudoku](http://www.sudoku.name/rules/)), it added to the board. If it breaks any rules, the number is not added and it outputs "Invalid"
+I wrote this myself at a Ruby meetup, it takes coordinates on a sudoku board and an input number with the format "row:column input". Unless the input number violates any of the rules of sudoku ([how to play sudoku](http://www.sudoku.name/rules/)), it added to the board. If it breaks any rules, the number is not added and it outputs "Invalid"
 
 ### Installation
 
