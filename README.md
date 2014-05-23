@@ -9,7 +9,7 @@ Built at a hack night, takes coordinates on a sudoku board and an input number w
 
 If you want to try this out, clone this repo into a clean directory, cd into that directory, then run the file. You can do this by running the following commands on the command line:
 ```
-git clone https://github.com/RyanVerhey/Sudoku-Validity-Checker.git
+git clone https://github.com/RyanVerhey/sudoku-validity-checker.git
 cd Sudoku-Validity-Checker
 ruby sudoku.rb
 ```
